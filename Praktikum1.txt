@@ -1,1 +1,3 @@
 <Muhammad Kamalludin> : <G.231.20.155> : <Jepara>
+Mata Kuliah : Open Source Sytem
+Catatan : Praktikum dengan menggunakan GIT
